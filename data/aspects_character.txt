@@ -154,7 +154,7 @@ Carrot, Not the Stick
 Chivalry Is Not Dead
 Conquer or Die!
 Contentment Is Preferable to Riches
-Dare to Fail, for It Is the Only Way to Truly Experience Success. ~ Matt Maresca
+Dare to Fail, for It Is the Only Way to Truly Experience Success.
 Desire Is Tamed With a Kiss
 Do Your Duty, Happen What May
 Every Man, Woman and Child for Themselves
@@ -165,7 +165,7 @@ Fight First, Talk Later!
 First, Do No Harm
 Friendship Often Ends in Love; but Love in Friendship - Never
 Glory Is Forever
-Greater Love Hath No Man Than This, That He Lay Down His Friends for His Life. ~ Jeremy Thorpe
+Greater Love Hath No Man Than This, That He Lay Down His Friends for His Life.
 I Always Pay My Due
 I Am the Land
 I Have Killed Men for Less!
@@ -175,13 +175,13 @@ I Want to Make a Difference
 I Will Have Vengeance
 I'll Be Back
 I'll Make Captain One Day
-Imagination Is More Important Than Knowledge. ~ Albert Einstein
-It's Not the Size of the Dog in the Fight, but the Size of the Fight in the Dog. ~ Mark Twain
+Imagination Is More Important Than Knowledge.
+It's Not the Size of the Dog in the Fight, but the Size of the Fight in the Dog.
 It's the Last Inch That Counts
 Ladies First
 Liberty or Death!
-Life Is a Great Big Canvas, and You Should Throw All the Paint on It You Can. ~ Danny Kaye
-Life Is Either a Daring Adventure, or Nothing. ~ Helen Keller
+Life Is a Great Big Canvas, and You Should Throw All the Paint on It You Can.
+Life Is Either a Daring Adventure, or Nothing.
 Live Life to the Fullest
 Mercy Has No Place in the Law
 My Favorite Dish Is Revenge
@@ -207,7 +207,7 @@ Stay Alive
 Subtlety Is Its Own Power
 Tears Are Not Enough
 Technology Is the Great Equalizer
-the Best Way out Is Always Through. ~ Robert Frost
+the Best Way out Is Always Through.
 the Price of Glory
 the Road Is My Home
 the Snake Lurks in the Grass
@@ -216,7 +216,7 @@ to Sacrifice Even Life to Truth
 Uphold the Law
 Virtue Despises Danger
 Wants to Live in Peace
-We Must Be the Change We Want to See in the World. ~ Mahatma Gandhi
+We Must Be the Change We Want to See in the World.
 A gambler and a cheat
 A lover, not a fighter
 A Squirrel!
@@ -473,7 +473,7 @@ Bookworm
 Born of Wealth
 Born to the Blade
 Cat's Eyes
-Chance Favors Only Those Who Court Her. ~ Charles Nicolle
+Chance Favors Only Those Who Court Her.
 Competitive Athlete
 Cuts It Close
 Dead Sexy
@@ -517,7 +517,7 @@ in Acting Justly Fear No One
 In Shape and Ready to Play
 Inconspicuous
 Iron Will
-It Is Better to Know Some of the Questions Than All of the Answers. ~ James Thurber
+It Is Better to Know Some of the Questions Than All of the Answers.
 It Was Always in My Pocket
 It Would Take a Miracle
 Jane of All Trades
@@ -583,7 +583,7 @@ Takes One to Know One
 That Is Not a Knife. This Is a Knife!
 The Pen Is Mightier then the Sword
 There is always more than meets the eye
-To Know How to Hide One's Ability Is Great Skill. ~ Francois De La Rochefoucauld
+To Know How to Hide One's Ability Is Great Skill.
 Too Close to Call
 Touched by Magic
 Tough As Nails
@@ -620,7 +620,7 @@ Friends in Low Places
 Hidden Crush
 I Know Just the Guy
 I'm a Member of ...
-"I Get by With a Little Help From my Friends" ~The Beatles
+I Get by With a Little Help From my Friends
 Made Man
 Manfred, Save Me!
 My Old Friend, ...
